@@ -1,0 +1,29 @@
+{
+  "name": "module-9-challenge",
+  "version": "1.0.0",
+  "description": "weather telling site",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.json",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anton10mata/module9-challenge.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Antonio Mata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anton10mata/module9-challenge/issues"
+  },
+  "homepage": "https://github.com/anton10mata/module9-challenge#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "uuid": "^10.0.0"
+  }
+}
